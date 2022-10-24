@@ -16,6 +16,7 @@ public class Tekst {
           }
       }return teksts.size();
   }
+
     public String toString(){
         return tekstLinjer.get(0);
     }

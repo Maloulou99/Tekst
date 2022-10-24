@@ -10,6 +10,7 @@ public class Main {
         tekst.tilføj("farvel");
 
 
+
         System.out.println(tekst.tilføjAntalUnikke());
     }
 }
